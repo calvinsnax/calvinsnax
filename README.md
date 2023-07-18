@@ -5,5 +5,5 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=calvinsnax)](https://velog.io/@calvinsnax) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=calvinsnax)](https://velog-readme-stats.vercel.app/api/redirect?name=calvinsnax&tag=github)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=calvinsnax)](https://velog-readme-stats.vercel.app/api/redirect?name=calvinsnax)
 
